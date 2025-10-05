@@ -1,0 +1,4 @@
+main>  1. Nav
+            2. side text
+            3. window
+            4.footer
